@@ -1,4 +1,6 @@
 # Arduino_ST7735_STM
+Forked from https://github.com/cbm80amiga/Arduino_ST7735_Fast
+
 Fast STM32 SPI/DMA library for ST7735 1.8" 128x160
 
 YouTube videos:
@@ -40,7 +42,7 @@ Use "#define CS_ALWAYS_LOW" for LCD boards where CS pin is internally connected 
  |#07| GND | GND|
  |#08| VCC | 3.3V|
  
- Tested with stm32duino and Arduino IDE 1.6.5
+ Tested with stm32duino and Arduino IDE 1.6.5 and IDE 1.8.
  
  If you find it useful and want to buy me a coffee or a beer:
 
