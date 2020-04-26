@@ -45,4 +45,4 @@ Use "#define CS_ALWAYS_LOW" for LCD boards where CS pin is internally connected 
  Tested with stm32duino and Arduino IDE 1.6.5 and IDE 1.8.2
  
  If you find it useful and want to help the author, buy him a coffee or a beer:
-                ---->>>> https://www.paypal.me/cbm80amiga <<<<----
+        ---->>>> https://www.paypal.me/cbm80amiga <<<<----
